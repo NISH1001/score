@@ -10,6 +10,7 @@ It is written in python and needs `python3`.
     ```bash
     pip3 install beautifulsoup4
     ```
+
 - `pip3` is used for install python packages
     ```bash
     sudo apt-get install python3-pip
